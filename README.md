@@ -1,0 +1,2 @@
+# PyTrain
+Fundamental Python Pratices
